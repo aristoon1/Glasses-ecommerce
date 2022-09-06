@@ -4,7 +4,7 @@
 define('DB_HOST','localhost');
 define('DB_USER','root');
 define('DB_PASS','');
-define('DB_NAME','raman');
+define('DB_NAME','glasses1');
 // Establish database connection.
 
 define('CURRENCY','Rs');
